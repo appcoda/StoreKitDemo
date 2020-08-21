@@ -1,0 +1,19 @@
+[{
+        "id": 1,
+        "image": "salad",
+        "name": "Ceasars Salad",
+        "productID": "com.appcoda.storekitlocaldemo.salad"
+    },
+    {
+        "id": 2,
+        "image": "spaghetti",
+        "name": "Spaghetti & Meatballs",
+        "productID": "com.appcoda.storekitlocaldemo.spaghetti"
+    },
+    {
+        "id": 3,
+        "image": "cake",
+        "name": "Chocolate Cake",
+        "productID": "com.appcoda.storekitlocaldemo.cake"
+    }
+]

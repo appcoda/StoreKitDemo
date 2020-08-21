@@ -1,0 +1,57 @@
+{
+  "products" : [
+
+  ],
+  "settings" : {
+
+  },
+  "subscriptionGroups" : [
+    {
+      "id" : "56D0A372",
+      "localizations" : [
+
+      ],
+      "name" : "MySubscriptions",
+      "subscriptions" : [
+        {
+          "adHocOffers" : [
+            {
+              "displayPrice" : "0.29",
+              "internalID" : "BD42973D",
+              "offerID" : "RecipesSummerSales",
+              "paymentMode" : "payUpFront",
+              "referenceName" : "SummerSales",
+              "subscriptionPeriod" : "P1M"
+            }
+          ],
+          "displayPrice" : "0.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "75E4542C",
+          "introductoryOffer" : {
+            "displayPrice" : "0.49",
+            "internalID" : "C5E55DDE",
+            "paymentMode" : "payUpFront",
+            "subscriptionPeriod" : "P1M"
+          },
+          "localizations" : [
+            {
+              "description" : "Get access to amazing recipes every month!",
+              "displayName" : "Recipes for you!",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "com.appcoda.storekitlocaldemo.salad",
+          "recurringSubscriptionPeriod" : "P1M",
+          "referenceName" : "SaladSub",
+          "subscriptionGroupID" : "56D0A372",
+          "type" : "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version" : {
+    "major" : 1,
+    "minor" : 0
+  }
+}

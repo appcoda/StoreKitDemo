@@ -1,0 +1,67 @@
+{
+  "products" : [
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : false,
+      "internalID" : "D1E6E94F",
+      "localizations" : [
+        {
+          "description" : "The most popular salad everybody loves!",
+          "displayName" : "Ceasars Salad",
+          "locale" : "en_US"
+        },
+        {
+          "description" : "Η διάσημη σαλάτα που όλοι λατρεύουν!",
+          "displayName" : "Σαλάτα του Καίσαρα",
+          "locale" : "el"
+        }
+      ],
+      "productID" : "com.appcoda.storekitlocaldemo.salad",
+      "referenceName" : "Salad",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "1.19",
+      "familyShareable" : false,
+      "internalID" : "EAB10E54",
+      "localizations" : [
+        {
+          "description" : "A tasty meal that makes you happy!",
+          "displayName" : "Spaghetti & Meatballs",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.appcoda.storekitlocaldemo.spaghetti",
+      "referenceName" : "Spaghetti",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "1.49",
+      "familyShareable" : false,
+      "internalID" : "5BFC93DE",
+      "localizations" : [
+        {
+          "description" : "The most delicious dessert ever!",
+          "displayName" : "Chocolate Cake",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.appcoda.storekitlocaldemo.cake",
+      "referenceName" : "Cake",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {
+    "_askToBuyEnabled" : false,
+    "_billingIssuesEnabled" : false,
+    "_locale" : "en_US",
+    "_storefront" : "USA"
+  },
+  "subscriptionGroups" : [
+
+  ],
+  "version" : {
+    "major" : 1,
+    "minor" : 0
+  }
+}
